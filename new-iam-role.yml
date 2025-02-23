@@ -22,4 +22,4 @@ Resources:
                 Action:
                   - 's3:ListBucket'
                   - 's3:PutObject'
-         
+                Resource: '*'
